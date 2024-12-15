@@ -17,7 +17,7 @@ El diseño de la página se inspiró en la página web **La Divinata**, dándole
 
 1. *Clona este repositorio:*
     ```
-    git clone https://github.com/yuleiditho/BakeryProject.git
+    git clone https://github.com/jimloxc9912/BakeryProject.git
     ```
     
 
@@ -42,7 +42,7 @@ Este proyecto no tiene una licencia específica. Si decides usarlo o adaptarlo, 
 
 
 ## GitHub Pages
-Puedes ver la página web en vivo en el siguiente enlace: [Yiye's](https://yuleiditho.github.io/BakeryProject/).
+Puedes ver la página web en vivo en el siguiente enlace: [Yiye's](https://jimloxc9912.github.io/BakeryProject/).
 
 ### Notas Adicionales
 - Los cambios en el proyecto se gestionan mediante *Git*. Asegúrate de seguir las buenas prácticas de commit (mensajes claros y commits frecuentes) para mantener el proyecto organizado.
